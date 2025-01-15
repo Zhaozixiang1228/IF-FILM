@@ -227,6 +227,9 @@ Considering the immense workload involved in creating this dataset, we have open
 #### Quantitative fusion results:
 <img src="images\R4.png" width="70%" align=center />
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Zhaozixiang1228/IF-FILM&type=Date)](https://star-history.com/#Zhaozixiang1228/IF-FILM&Date)
 
 ## 📖 Related Work
 
@@ -247,5 +250,5 @@ Zixiang Zhao, Shuang Xu, Jiangshe Zhang, Chengyang Liang, Chunxia Zhang and Junm
 
 <!-- - Zixiang Zhao, Jiangshe Zhang, Haowen Bai, Yicheng Wang, Yukun Cui, Lilun Deng, Kai Sun, Chunxia Zhang, Junmin Liu, Shuang Xu. *Deep Convolutional Sparse Coding Networks for Interpretable Image Fusion.* **CVPR Workshop 2023**. https://robustart.github.io/long_paper/26.pdf.
 
-- Zixiang Zhao, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang. *Bayesian fusion for infrared and visible images.* **Signal Processing**, https://doi.org/10.1016/j.sigpro.2020.107734. -->
+- Zixiang Zhao, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang. *Bayesian fusion for infrared and visible images.* **Signal Processing**. https://doi.org/10.1016/j.sigpro.2020.107734. -->
 
