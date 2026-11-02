@@ -75,7 +75,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 model = torch.nn.DataParallel(
     Net(hidden_dim=hidden_dim, image2text_dim=i2t_dim))
 if pre_model != "":
-    model.load_state_dict(torch.load(pre_model)['model'])
+    model.load_state_dict(torch.load(pre_model, weights_only=True)['model'])
     print('load_pretrain_model')
 model.to(device)
 criterion = LpLssimLossweight().to(device)
